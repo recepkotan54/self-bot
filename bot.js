@@ -24,4 +24,4 @@ console.log('NEGRONN');
 
 });
 
-bot.login("TOKEN");
+bot.login("process.env.BOT_TOKEN");
