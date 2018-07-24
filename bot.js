@@ -23,7 +23,7 @@ bot.on('guildMemberRemove', member=>{
 
 
 bot.on('ready',()=> {
-console.log('NEGRONN');
+console.log('Recep Fides Self Bot Bağlandı');
 
 });
 
