@@ -14,7 +14,13 @@ bot.on('guildMemberAdd',member =>{
 
 
 bot.on('guildMemberRemove', member=>{
-    member.send('**Biz Büyümekte Olan Bir Discord Sunucusuyuz** https://discord.gg/Ee7hBtV');
+    member.send('**:heart:SELAMIN ALEYKÜM :heart:! 
+:pray: Senin için özel bir davetim var :pray: 
+:cherry_blossom: Sohbet, Oyun, Müzik, ve Eğlencenin bolca bulunduğu sunucumuza katılmaya ne dersin? :cherry_blossom: 
+:fire:  Sende katılırsan ailemiz 1 kişi daha büyüyecek. :fire:
+:heart: Ve gerçekten seni aramızda görmekten mutluluk duyuyor olacağız[KARŞILIKLI OLABİLİR]. <3
+:arrow_down:  :lollipop: DAVET LİNKİ :lollipop: :arrow_down: 
+https://discord.gg/Ee7hBtV');
 
     //member.guild.defaultChannel.sendmessage(`Welcome "${member.user.username}"! Be sure to set your platform by typing "!role"`);
    
