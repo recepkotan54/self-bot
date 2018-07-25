@@ -9,8 +9,8 @@ bot.on('guildMemberAdd',member =>{
     member.send({embed: {
     color: 3447003,
     author: {
-      name: client.user.username,
-      icon_url: client.user.avatarURL
+      name: Sunucuma Davetlisin,
+      icon_url: cdn.discordapp.com/attachments/468018438338641921/471408598879043594/JPEG_20180723_094842.jpg
     },
     title: "Sunucumuzda Sana İhtiyacımız Var",
     url: "https://discord.gg/Ee7hBtV",
@@ -27,7 +27,7 @@ bot.on('guildMemberAdd',member =>{
     timestamp: new Date(),
     footer: {
       icon_url: client.user.avatarURL,
-      text: "© Recep | Fides"
+      text: "© Recep | Fides https://discord.gg/Ee7hBtV"
     }
   }
 })
