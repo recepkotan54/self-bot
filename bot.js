@@ -15,7 +15,7 @@ bot.on('guildMemberAdd',member =>{
 
 
 bot.on('guildMemberRemove', member=>{
-    member.send('**İçerde Güzel Bir Ortam Var Ve Her Hafta 1 Çekiliş Oluyor Kaçırmayın Derim.** https://discord.gg/Ee7hBtV');
+    member.send('```Sunucudan Gidiyorsun ' + username + ' Bari Bizim Sunucuyuda Gelirmisin İçerde Güzel Bir Ortam Var Ve Her Hafta 1 Çekiliş Oluyor Kaçırmayın Derim.``` \```Kayıt Olmayı Sakın Unutmayın.```  https://discord.gg/Ee7hBtV');
 
     //member.guild.defaultChannel.sendmessage(`Welcome "${member.user.username}"! Be sure to set your platform by typing "!role"`);
    
