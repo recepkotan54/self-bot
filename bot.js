@@ -6,7 +6,7 @@ var fs = require('fs');
 // -->COMMANDS<--
 
 bot.on('guildMemberAdd',member =>{
-    member.send('```Bu Sunucuyu Sevdiysen Bizim Sunucuyuda Gelirmisin İçerde Güzel Bir Ortam Var Ve Her Hafta 1 Çekiliş Oluyor Kaçırmayın Derim.``` https://discord.gg/JdXv4m5 ```Kayıt Olmayı Sakın Unutmayın.``` https://media.giphy.com/media/oWjyixDbWuAk8/giphy.gif');
+    member.send('```Bu Sunucuyu Sevdiysen Bizim Sunucuyuda Gelirmisin İçerde Güzel Bir Ortam Var Ve Her Hafta 1 Çekiliş Oluyor Kaçırmayın Derim.``` https://discord.gg/Ee7hBtV ```Kayıt Olmayı Sakın Unutmayın.``` https://media.giphy.com/media/oWjyixDbWuAk8/giphy.gif');
 
     //member.guild.defaultChannel.sendmessage(`Welcome "${member.user.username}"! Be sure to set your platform by typing "!role"`);
    
@@ -15,7 +15,7 @@ bot.on('guildMemberAdd',member =>{
 
 
 bot.on('guildMemberRemove', member=>{
-    member.send('```Sunucudan Gidiyorsun Madem Bizim Sunucuyuda Gelirmisin İçerde Güzel Bir Ortam Var Ve Her Hafta 1 Çekiliş Oluyor Kaçırmayın Derim.``` https://discord.gg/JdXv4m5 ```Kayıt Olmayı Sakın Unutmayın.``` https://media.giphy.com/media/oWjyixDbWuAk8/giphy.gif');
+    member.send('```Sunucudan Gidiyorsun Madem Bizim Sunucuyuda Gelirmisin İçerde Güzel Bir Ortam Var Ve Her Hafta 1 Çekiliş Oluyor Kaçırmayın Derim.``` https://discord.gg/Ee7hBtV ```Kayıt Olmayı Sakın Unutmayın.``` https://media.giphy.com/media/oWjyixDbWuAk8/giphy.gif');
 
     //member.guild.defaultChannel.sendmessage(`Welcome "${member.user.username}"! Be sure to set your platform by typing "!role"`);
    
